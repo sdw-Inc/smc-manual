@@ -16,6 +16,9 @@ has_children: false
     <img src="../../../../assets/images/process-control/pre-configuration/registration-holiday/1.png" width="70%">
     </td></tr></table>
 
+    {: .note }
+    工場ごとに休日設定することができます。
+
 2. 年表記の左右のボタンを選択して、休日設定したい年度を表示します。
 
     <table><tr><td>

@@ -10,7 +10,7 @@ has_children: false
 
 <br>
 1. 「基幹システム」トップ画面の「製品」マスタを選択し、[製品一覧]画面を開きます。  
-変更したい製品を物件、部位で絞り込み、あるいは製品番号を入力して「検索」します。
+変更したい製品を物件、部位、製作工場で絞り込み、あるいは製品番号、図面番号を入力して「検索」します。
 
     <table><tr><td>
     <img src="../../../assets/images/product-registration/edit-product/1.png" width="80%">

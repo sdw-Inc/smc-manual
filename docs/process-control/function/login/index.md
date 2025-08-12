@@ -13,7 +13,7 @@ has_children: false
 
 ### パターン1「品質管理システムからアクセス」
 
-品質管理システム：工程表（最下段左）
+品質管理システム：工程表（画面左下）
 
 <table><tr><td>
 <img src="../../../../assets/images/process-control/function/login/1.png" width="75%">
@@ -21,13 +21,10 @@ has_children: false
 
 ### パターン2「基幹システムからアクセス」
 
-基幹システム：製造>製造ライン（WEB）
+基幹システム：工程表（画面左）
 
 <table><tr><td>
 <img src="../../../../assets/images/process-control/function/login/2.png" width="75%">
-</td></tr></table>
-<table><tr><td>
-<img src="../../../../assets/images/process-control/function/login/3.png" width="75%">
 </td></tr></table>
 
 ### パターン3「URLからアクセス」
@@ -36,5 +33,5 @@ has_children: false
 （項目設定：[基幹システム_従業員マスタ]({% link docs/employee-registration/employee/index.md%})）
 
 <table><tr><td>
-<img src="../../../../assets/images/process-control/function/login/4.png" width="40%">
+<img src="../../../../assets/images/process-control/function/login/3.png" width="40%">
 </td></tr></table>

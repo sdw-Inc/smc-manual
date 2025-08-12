@@ -3,7 +3,7 @@ layout: default
 title: 折りたたみ機能
 parent: 機能
 grand_parent: 工程管理
-nav_order: 10
+nav_order: 11
 has_children: false
 ---
 

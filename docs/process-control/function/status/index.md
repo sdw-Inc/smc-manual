@@ -3,7 +3,7 @@ layout: default
 title: ステータスの変更
 parent: 機能
 grand_parent: 工程管理
-nav_order: 11
+nav_order: 12
 has_children: false
 ---
 

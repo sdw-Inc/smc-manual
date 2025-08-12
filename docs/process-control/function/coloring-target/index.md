@@ -10,7 +10,7 @@ has_children: false
 # 色付け対象の選択
 
 <br>
-1. [WEB工程表]画面上右上の「≡」アイコンから色付け対象の選択ができます。
+1. [WEB工程表]画面右上の「≡」アイコンから色付け対象の選択ができます。
 
     <table><tr><td>
     <img src="../../../../assets/images/process-control/function/coloring-target/1.png" width="90%">

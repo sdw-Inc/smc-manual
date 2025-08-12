@@ -12,3 +12,8 @@ nav_order: 108
 
 アップデート内容:
 - テストテスト -->
+
+
+### 2025/08/31 
+
+- [OCR図面アップロード]({% link docs/quality-control/administrator/ocr-draw/index.md%})　追加

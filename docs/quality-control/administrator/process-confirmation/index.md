@@ -3,7 +3,7 @@ layout: default
 title: 工程の状況を確認
 parent: 機能：管理者向け
 grand_parent: 品質管理
-nav_order: 10
+nav_order: 11
 has_children: false
 ---
 

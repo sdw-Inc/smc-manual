@@ -3,7 +3,7 @@ layout: default
 title: 各製品の状況を確認
 parent: 機能：管理者向け
 grand_parent: 品質管理
-nav_order: 8
+nav_order: 9
 has_children: false
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 製品の図面を登録
+title: 1製品ごとに図面を登録
 parent: 機能：管理者向け
 grand_parent: 品質管理
 nav_order: 6
 has_children: false
 ---
 
-# 製品の図面を登録する
+# 1製品ごとに図面を登録する
 
 1. [品質管理システム]トップ画面から「製品」を選択します。
     

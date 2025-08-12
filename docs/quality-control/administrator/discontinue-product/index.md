@@ -3,7 +3,7 @@ layout: default
 title: 製品を廃版にする
 parent: 機能：管理者向け
 grand_parent: 品質管理
-nav_order: 11
+nav_order: 12
 has_children: false
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: 備考の記入
 parent: 機能
 grand_parent: 工程管理
-nav_order: 12
+nav_order: 13
 has_children: false
 ---
 

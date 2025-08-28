@@ -3,7 +3,7 @@ layout: default
 title: 製品の図面を印刷
 parent: 機能：管理者向け
 grand_parent: 品質管理
-nav_order: 7
+nav_order: 8
 has_children: false
 ---
 

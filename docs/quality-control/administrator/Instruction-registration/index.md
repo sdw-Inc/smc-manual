@@ -3,7 +3,7 @@ layout: default
 title: 工程の指示書を登録
 parent: 機能：管理者向け
 grand_parent: 品質管理
-nav_order: 9
+nav_order: 10
 has_children: false
 ---
 
